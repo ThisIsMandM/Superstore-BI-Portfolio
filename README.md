@@ -86,6 +86,9 @@ Insert high-resolution screenshots here, such as:
 - Expand documentation with more technical DAX/code insights.
 - Ensure accessibility and responsive layout for all dashboard visuals.
 
-_This project exemplifies full-cycle BI: from data cleaning, through descriptive analytics, to business-ready interactive dashboard.
+This project exemplifies full-cycle BI: from data cleaning, through descriptive analytics, to business-ready interactive dashboard.
+
+<img width="828" height="465" alt="4-PowerBI_Dashboard" src="https://github.com/user-attachments/assets/d6e13b58-43dd-4bed-befd-0712e95b636a" />
+
 
 
