@@ -13,7 +13,7 @@ This project demonstrates the complete journey from raw data to actionable busin
 
 /Superstore-BI-Portfolio/
 ├── Data/            \# Cleaned Raw Excel dataset(s)
-├── Analysis_File/   \# Excel Analysis Added via Power Query & Charts
+├── Analysis_Files/   \# Excel Analysis Added via Power Query & Charts
 ├── Final_Report/    \# Power BI (.pbix) report file
 ├── Docs/            \# Screenshots, detailed workflow notes
 └── README.md        \# This documentation
